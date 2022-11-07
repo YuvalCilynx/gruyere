@@ -10,3 +10,4 @@ bin/python3
 bin/python
 pyvenv.cfg
 lib64
+*.txt
